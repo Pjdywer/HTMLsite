@@ -1,0 +1,12 @@
+    body {background-color: #9FEED1;}
+    hr {border-style: none;
+        border-top: dotted;
+        width: 5%;
+        color: lightgrey;
+        border-top-width: 10px;
+        }
+    h1 {color: #11CBD7;
+        font-family: Courier New;
+        }
+    h3 {color: #11CBD7;
+        font-family: sans-serif;}
